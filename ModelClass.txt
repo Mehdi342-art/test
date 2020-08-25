@@ -1,0 +1,12 @@
+public class Model1{
+
+private String modelType;
+private String modelName;
+
+public Model1(){
+}
+
+//setter and getter method
+
+
+}
