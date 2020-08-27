@@ -1,1 +1,0 @@
-this is adapter for icon recyclerview
